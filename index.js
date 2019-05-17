@@ -1,6 +1,8 @@
 const express = require('express');
 const app = express();
 const port = 3000;
+let quotes = require('random-movie-quotes')
+
 
 app.use(express.static('public'));
 

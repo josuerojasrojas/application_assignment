@@ -1,5 +1,24 @@
 # Assignment
 
+### Setup
+
+```bash
+git clone git@github.com:josuerojasrojas/application_assignment.git
+cd application_assignment
+npm install
+```
+
+### Start App
+
+After setup:
+
+```bash
+npm start
+```
+
+And go to your browser at localhost:3000
+
+
 ## Objectives
 
 By the end of this project you will:
